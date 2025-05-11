@@ -349,7 +349,7 @@ div iframe{
 
 
 /***************************************************************************/
-@media(max-width: 1020px) {
+@media(max-width: 1300px) {
     .drawer {
         display: block;
         font-size: 2rem;
